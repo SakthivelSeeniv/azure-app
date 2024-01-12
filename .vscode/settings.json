@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/0c2535f0-983d-44c0-9826-b6d5ef611a4a/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/PBI-API-Service",
+    "appService.deploySubpath": "."
+}
